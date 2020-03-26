@@ -22,6 +22,8 @@ public class Program {
 		
 		System.out.printf("FINAL GRADE = %.2f\n", student.finalGrade());
 		student.verification();
+		
+		sc.close();
 
 	}
 

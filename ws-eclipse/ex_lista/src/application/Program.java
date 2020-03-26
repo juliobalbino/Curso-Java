@@ -45,6 +45,8 @@ public class Program {
 		 for (Employee x : list) {
 			 System.out.println(x);
 		 }
+		 sc.close();
 	}
 
+	
 }
